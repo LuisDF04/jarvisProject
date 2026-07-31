@@ -1,0 +1,8 @@
+PyQt6==6.7.1
+spotipy==2.24.0
+word2number-i18n==1.0.1
+python-dotenv==1.0.1
+vosk==0.3.45
+groq==0.11.0
+pyaudio==0.2.14
+requests==2.32.3
