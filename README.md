@@ -140,7 +140,7 @@ If you want to modify the code or contribute to the project:
 ### 1. Clone the repository and set up the environment
 Open your terminal and run the following commands:
 
-    git clone https://github.com/LuisDF04/LuisDF04/jarvisProject.git
+    git clone https://github.com/LuisDF04/jarvisProject.git
     cd YOUR_REPOSITORY
     python -m venv venv
     venv\Scripts\activate
