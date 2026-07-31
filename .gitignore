@@ -1,34 +1,27 @@
-# Entornos virtuales (¡No queremos subir miles de archivos de librerías!)
 venv/
 env/
 .venv/
 
-# Archivos de configuración local y secretos (¡CRÍTICO!)
 .env
 .cache
 config.json
 intents.json
 routes.json
 
-# Archivos compilados y temporales de Python
 __pycache__/
 *.pyc
 *.pyo
 
-# Archivos generados por PyInstaller (Fase 3)
 build/
 dist/
 *.spec
 
-# Caché del sistema operativo
 .DS_Store
 Thumbs.db
 
-# Instaladores y cachés locales
 *.exe
 .cache/
 
-# Archivos de compilación de PyInstaller
 Programa Jarvis Win/
 build/
 dist/
