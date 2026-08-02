@@ -166,9 +166,7 @@ class Action:
         return
 
     def close_assistant(self, parameter=None):
-        import os
-        print("[INFO] Apagando el sistema...")
-        # os._exit(0) > sys.exit(), por causa de los hilos (threads) (mata todo de golpe sin dejar procesos fantasma)
+        print("[INFO] Closing the system...")
         os._exit(0)
 
     def pause_music(self, parameter=None):
