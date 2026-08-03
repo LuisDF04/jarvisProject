@@ -141,9 +141,7 @@ If you want to modify the code or contribute to the project:
 Open your terminal and run the following commands:
 
     git clone https://github.com/LuisDF04/jarvisProject.git
-    cd YOUR_REPOSITORY
-    python -m venv venv
-    venv\Scripts\activate
+    cd jarvisProject
     pip install -r requirements.txt
 
 ### 2. Configure Environment Variables
