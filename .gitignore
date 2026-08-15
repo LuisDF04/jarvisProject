@@ -1,29 +1,18 @@
-venv/
-env/
-.venv/
-
 .env
-.cache
+.cache/
 config.json
 intents.json
 routes.json
 
+build/
+dist/
+*.spec
+*.exe
+
 __pycache__/
 *.pyc
 *.pyo
-
-build/
-dist/
-*.spec
-
 .DS_Store
 Thumbs.db
 
-*.exe
-.cache/
-
-Programa Jarvis Win/
-build/
-dist/
-*.spec
-*.exe
+plugins_library/
